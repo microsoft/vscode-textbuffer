@@ -26,6 +26,11 @@
         "@types/jest": "^24.0.13",
         "jest": "^24.8.0",
         "ts-jest": "^24.0.2",
-        "typescript": "^3.4.2"
+        "typescript": "^3.4.2",
+        "set-value": ">=2.0.1",
+        "node-notifier": ">=8.0.1",
+        "yargs-parser": ">=13.1.2",
+        "minimist": ">=0.2.1",
+        "kind-of": ">=6.0.3"
     }
 }
