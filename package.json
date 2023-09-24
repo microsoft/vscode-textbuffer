@@ -21,7 +21,7 @@
     "bugs": {
         "url": "https://github.com/microsoft/vscode-textbuffer/issues"
     },
-    "homepage": "httpshttps://github.com/microsoft/vscode-textbuffer#readme",
+    "homepage": "https://github.com/microsoft/vscode-textbuffer#readme",
     "devDependencies": {
         "@types/jest": "^24.0.13",
         "jest": "^27.0.6",
